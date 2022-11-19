@@ -16,6 +16,12 @@ O desafio de projeto tinha como finalidade criar um site com a listagem de todos
 
 <br>
 
+# Deploy
+
+Você pode conferir o site clicando [aqui](https://murilopita.github.io/pokedex/).
+
+<br>
+
 <h1 align="center">
     Desktop Version
     <br>
