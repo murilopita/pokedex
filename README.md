@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <br>
-  <img src="../2_Desafio_de_Projeto_POKEDEX/logo.svg">
+  <img src="./logo.svg">
   <br>
 </h1>
 
