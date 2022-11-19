@@ -152,13 +152,32 @@
 
 /* Media Queries */
 
+@media screen and (min-width: 320px){
+    header img {
+        height: 50px;
+    }
+
+    .pokemons{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+
 @media screen and (min-width: 380px){
+    header img {
+        height: 50px;
+    }
+
     .pokemons{
         grid-template-columns: 1fr 1fr;
     }
 }
 
 @media screen and (min-width: 576px){
+    header img {
+        height: 50px;
+    }
+
     .pokemons{
         grid-template-columns: 1fr 1fr 1fr;
     }
