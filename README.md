@@ -20,12 +20,12 @@
     Desktop Version
     <br>
     <br>
-    <img src="../2_Desafio_de_Projeto_POKEDEX/assets/desktop.gif">
+    <img src="./assets/desktop.gif">
 </h1>
 
 <h1 align="center">
     Mobile Version
     <br>    
     <br>
-    <img src="../2_Desafio_de_Projeto_POKEDEX/assets/mobile.gif">
+    <img src="./assets/mobile.gif">
 </h1>
