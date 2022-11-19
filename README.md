@@ -12,7 +12,7 @@
 
 <br>
 
-< align="center">O desafio de projeto tinha como finalidade criar um site com a listagem de todos os pokémons da primeira geração. Todos os dados sobre os pokémons como nome, número, tipo e imagem, foram possíveis com o uso da API REST [PokéApi](https://pokeapi.co/).
+O desafio de projeto tinha como finalidade criar um site com a listagem de todos os pokémons da primeira geração. Todos os dados sobre os pokémons como nome, número, tipo e imagem, foram possíveis com o uso da API REST [PokéApi](https://pokeapi.co/).
 
 <br>
 
