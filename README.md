@@ -26,12 +26,12 @@ Você pode conferir o site clicando [aqui](https://murilopita.github.io/pokedex/
     Desktop Version
     <br>
     <br>
-    <img src="./assets/desktop.gif">
+    <img src="./assets/desktop.png">
 </h1>
 
 <h1 align="center">
     Mobile Version
     <br>    
     <br>
-    <img src="./assets/mobile.gif">
+    <img src="./assets/mobile.png">
 </h1>
